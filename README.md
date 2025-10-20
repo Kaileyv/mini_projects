@@ -7,7 +7,7 @@
 ## Tools Used
 * **Python**
 
-## Project Structure
+## Repository Structure
 ```
 python_mini_projects/
 │
