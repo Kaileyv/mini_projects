@@ -1,8 +1,8 @@
 # Python Mini Projects
 
 ## Table of Contents
-* [Tools Used]()
-* [Repository Structure]()
+* [Tools Used](https://github.com/Kaileyv/python_mini_projects/blob/main/README.md#tools-used)
+* [Repository Structure](https://github.com/Kaileyv/python_mini_projects/blob/main/README.md#repository-structure)
 
 ## Tools Used
 * **Python**
